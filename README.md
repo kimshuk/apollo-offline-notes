@@ -1,3 +1,3 @@
 ## Offline Notes
 
-Creating note app using React, Apollo, and GraphQL that can store and edit in offline mode
+Markdown Note Taking App built with React, Apollo, and GraphQL that can store and edit in offline mode
